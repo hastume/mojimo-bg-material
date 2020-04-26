@@ -1,5 +1,5 @@
 (function(){
-var KasperskyLab = {SIGNATURE:"7D8B79A2-8974-4D7B-A76A-F4F29624C06BnqDz0e-u_uUkeNBAkmn2oqX4pYfuAiDmDBufBYx0KqyMAgZHGaIWFZN88bW-IRPIYXpL7m34g3pK31k1Ni1-MQ",PLUGINS_LIST:"",PREFIX:"https://gc.kis.v2.scr.kaspersky-labs.com/",INJECT_ID:"FD126C42-EBFA-4E12-B309-BB3FDD723AC1"}; var KasperskyLab = (function (context) {
+var KasperskyLab = {SIGNATURE:"7D8B79A2-8974-4D7B-A76A-F4F29624C06BvJZScp5aiSY_K25e19pKQmNu2aU1f_rpDq2sc7dUlDGGWy9OQiIiBHJbbZA7cJyIX_ZHuYF-IP2RGkDijg9Jpw",PLUGINS_LIST:"",PREFIX:"https://gc.kis.v2.scr.kaspersky-labs.com/",INJECT_ID:"FD126C42-EBFA-4E12-B309-BB3FDD723AC1"}; var KasperskyLab = (function (context) {
     function GetClass(obj) {
         if (typeof obj === "undefined")
             return "undefined";
